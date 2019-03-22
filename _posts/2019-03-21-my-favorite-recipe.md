@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My Favorite Recipe: NYC Chicken'
+title: 'My Favorite Recipe: NYC Street Cart Style Chicken and Rice'
 subtitle_body: Straight from the streets of New Yahk
 _date: 03/22/2019
 posted_at: '02:16 PM'
@@ -27,6 +27,7 @@ social:
   img_path: null
 
 ---
+
 <p>This recipe was taken from a reddit post I found long ago, its original source is from <a href="https://www.buzzfeed.com/emilyhorng/travel-to-new-york-city-without-leaving-your-house-with-this">Tasty</a>, though some have suggested the recipe was heavily influenced by <a href="https://www.seriouseats.com/recipes/2011/12/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe.html">this recipe</a> from Serious Eats. I don't know, I'm going to stay out of it. But I do know that no matter the original author of this recipe, it's pretty damn good. I might venture to say....it's my favorite. I've modified it a little to suit my experience and tastes and I am open to any suggestions from my many devoted readers.&nbsp;</p>
 <p>&nbsp;</p>
 <p>Well, enough of that. Here it is:</p>
@@ -89,3 +90,4 @@ social:
 <p>&nbsp;</p>
 <p>Well, I hope you enjoyed this recipe, thanks for reading!</p>
 <p>&nbsp;</p>
+
