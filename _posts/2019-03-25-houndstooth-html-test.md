@@ -28,9 +28,9 @@ social:
   img_path: null
 
 ---
-<p><i>Use the file editor or copy html into source code in Houndstooth for it to show with correct formatting.</i></p>
+<p><em>Use the file editor or copy html into source code in Houndstooth for it to show with correct formatting.</em></p>
 <hr />
-<this is not a real html tag> i used incorrect html tags here, <code>&ltthis is not a real html tag&gt&lt/this is not a real html tag&gt</code>, but the text shows up as unformatted. </this is not a real html tag>
+<p>i used incorrect html tags here, <code>&lt;this is not a real html tag&gt;&lt;/this is not a real html tag&gt;</code>, but the text shows up as unformatted. &lt;/this is not a real html tag&gt;</p>
 <h1>This is H1 style text</h1>
 <h2>This is H2 style text</h2>
 <h3>This is H3 style text</h3>
@@ -71,5 +71,5 @@ social:
 <hr />
 <p><code>this = some code</code></p>
 <hr />
-<h3> This was added using the Houndstooth file editor </h3>
+<h3>This was added using the Houndstooth file editor</h3>
 <hr />
