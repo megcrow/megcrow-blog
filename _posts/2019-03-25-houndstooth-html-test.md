@@ -30,7 +30,7 @@ social:
 ---
 <p><i>Use the file editor or copy html into source code in Houndstooth for it to show with correct formatting.</i></p>
 <hr />
-<h2> This line has no closing tag and should cause an error, I wonder what will happen.
+<code> This line has no closing tag and should cause an error, I wonder what will happen.
 <hr />
 <h1>This is H1 style text</h1>
 <h2>This is H2 style text</h2>
