@@ -28,7 +28,9 @@ social:
   img_path: null
 
 ---
-**markdown formatting must be defined in the file editor, not the collection editor**
+**Markdown formatting must be defined in the file editor, not the collection editor**
+*Use asterisks or underscores for horizontal rule*
+***
 
 # This is H1 style text
 ## This is H2 style text
