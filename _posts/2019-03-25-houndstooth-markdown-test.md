@@ -28,6 +28,6 @@ social:
   img_path: null
 
 ---
-<p>**preformatting setting on houndstooth does not support markdown, just shows raw text**</p>
+<p>*preformatting setting on houndstooth does not support markdown, just shows raw text*</p>
 <p>&nbsp;</p>
 <p># This is H1 style text<br /><br />## This is H2 style text<br /><br />### H3<br /><br />#### H4<br /><br />##### H5<br /><br />###### H6<br /><br /></p>
