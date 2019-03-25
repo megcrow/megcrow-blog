@@ -38,10 +38,10 @@ social:
 ##### This is H5 style text
 ###### This is H6 style text
 
----
+***
 *This is italic text* **This is bold text**
 Some Markdown text with <span style="color:blue">some *blue* text</span>.
-----
+***
 
 * This is an unordered list item
 * This is another unordered list item
