@@ -28,7 +28,7 @@ social:
   img_path: null
 
 ---
-<p><em><em>copy html into source code for it to show with correct formatting</em></em></p>
+<p><em><em>copy html into source code in Houndstooth for it to show with correct formatting</em></em></p>
 <h1>This is H1 style text</h1>
 <h2>This is H2 style text</h2>
 <h3>This is H3 style text</h3>
