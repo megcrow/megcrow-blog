@@ -68,3 +68,6 @@ social:
 </table>
 <hr />
 <p><code>this = some code</code></p>
+<hr />
+<h3> This was added using the Houndstooth file editor </h3>
+<hr />
