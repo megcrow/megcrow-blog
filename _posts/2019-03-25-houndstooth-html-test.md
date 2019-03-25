@@ -28,4 +28,41 @@ social:
   img_path: null
 
 ---
-<pre>&lt;h1&gt;This is H1 style text&lt;/h1&gt;<br /><br />&lt;h2&gt;This is H2 style text&lt;/h2&gt;<br /><br />&lt;h3&gt;This is H3 style text&lt;/h3&gt;<br /><br />&lt;h4&gt;This is H4 style text&lt;/h4&gt;<br /><br />&lt;h5&gt;This is H5 style text&lt;/h5&gt;<br /><br />&lt;h6&gt;This is H6 style text&lt;/h6&gt;<br /><br />&lt;hr /&gt;<br /><br />&lt;i&gt;This is italic text? &lt;/i&gt;<br /><br />&lt;b&gt; This is bold text &lt;/b&gt;<br /><br />&lt;p style="color:blue"&gt; This is colored text? &lt;/p&gt;<br /><br />&lt;hr /&gt;<br /><br />&lt;ul&gt;<br /><br />&lt;li&gt;This is an unordered list item&lt;/li&gt;<br /><br />&lt;li&gt;This is another unordered list item&lt;/li&gt;<br /><br />&lt;li&gt;This is yet another unordered list item&lt;/li&gt;<br /><br />&lt;/ul&gt;<br /><br /><br /><br /><br />&lt;ol&gt;<br /><br />&lt;li&gt;This is the first ordered list item&lt;/li&gt;<br /><br />&lt;li&gt;This is the second ordered list item&lt;/li&gt;<br /><br />&lt;li&gt;This is the final list item&lt;/li&gt;<br /><br />&lt;/ol&gt;<br /><br />&lt;hr /&gt;<br /><br />&lt;table&gt;<br /><br />&lt;tr&gt;<br /><br />&lt;th&gt;This&lt;/th&gt;<br /><br />&lt;th&gt;Is&lt;/th&gt;<br /><br />&lt;th&gt;a&lt;/th&gt;<br /><br />&lt;th&gt;table&lt;/th&gt;<br /><br />&lt;/tr&gt;<br /><br />&lt;tr&gt;<br /><br />&lt;td&gt; Data goes here&lt;/td&gt;<br /><br />&lt;td&gt; More data over here &lt;/td&gt;<br /><br />&lt;td&gt; So much data &lt;/td&gt;<br /><br />&lt;td&gt; OK last piece of data &lt;/td&gt;<br /><br />&lt;/tr&gt;<br /><br />&lt;/table&gt;</pre>
+<p><em><em>copy html into source code for it to show with correct formatting</em></em></p>
+<h1>This is H1 style text</h1>
+<h2>This is H2 style text</h2>
+<h3>This is H3 style text</h3>
+<h4>This is H4 style text</h4>
+<h5>This is H5 style text</h5>
+<h6>This is H6 style text</h6>
+<hr />
+<p><em>This is italic text </em><strong>This is bold text </strong></p>
+<p style="color: blue;">This is colored text</p>
+<hr />
+<ul>
+<li>This is an unordered list item</li>
+<li>This is another unordered list item</li>
+<li>This is yet another unordered list item</li>
+</ul>
+<ol>
+<li>This is the first ordered list item</li>
+<li>This is the second ordered list item</li>
+<li>This is the final list item</li>
+</ol>
+<hr />
+<table>
+<tbody>
+<tr>
+<th>This</th>
+<th>Is</th>
+<th>a</th>
+<th>table</th>
+</tr>
+<tr>
+<td>Data goes here</td>
+<td>More data over here</td>
+<td>So much data</td>
+<td>OK last piece of data</td>
+</tr>
+</tbody>
+</table>
