@@ -29,7 +29,9 @@ social:
 
 ---
 **Markdown formatting must be defined in the file editor, not the collection editor**
-*Use asterisks or underscores for horizontal rule*
+
+*Use asterisks or underscores for horizontal rule and make sure there is a blank line before it.*
+
 ***
 
 # This is H1 style text
