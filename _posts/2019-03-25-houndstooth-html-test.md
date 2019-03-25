@@ -31,7 +31,7 @@ social:
 <p><i>Use the file editor or copy html into source code in Houndstooth for it to show with correct formatting.</i></p>
 <hr />
 <b> This line has no closing tag, but the formatting still displays correctly.
-<hr />
+
 <h1>This is H1 style text</h1>
 <h2>This is H2 style text</h2>
 <h3>This is H3 style text</h3>
