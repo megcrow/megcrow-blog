@@ -28,7 +28,6 @@ social:
   img_path: null
 
 ---
-
 **markdown formatting must be defined in the file editor, not the collection editor**
 
 # This is H1 style text
@@ -40,7 +39,9 @@ social:
 
 ***
 *This is italic text* **This is bold text**
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
+
+This is text with <span style="color:blue">some blue text</span>.
+
 ***
 
 * This is an unordered list item
