@@ -29,6 +29,9 @@ social:
 
 ---
 
-
-Post content goes here.
-
+# This is H1 style text
+## This is H2 style text
+### This is H3 style text
+#### This is H4 style text
+##### This is H5 style text
+###### This is H6 style text
