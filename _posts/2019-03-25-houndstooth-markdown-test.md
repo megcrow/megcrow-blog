@@ -59,7 +59,7 @@ This is text with <span style="color:blue">some blue text</span>.
 ***
 
 | This | Is | A | Table |
-|------|:----:|:---:|------:|
+|:----:|:----:|:---:|:-----:|
 |Data goes here|More data over here| So much data| OK last piece of data|
 
 ___
