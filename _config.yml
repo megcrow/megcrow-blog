@@ -18,8 +18,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   A simple blog with no real purpose yet, other than to explore web development with Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: meggycro
-github_username:  megcrow
 
 # Build settings
 markdown: kramdown
@@ -30,6 +28,12 @@ plugins:
 collections:
     posts:
       output: true
+
+minima:
+  social_links:
+    twitter: meggycro
+    github: megcrow
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
