@@ -66,3 +66,5 @@ social:
 </tr>
 </tbody>
 </table>
+<hr />
+<p><code>this = some code</code></p>
