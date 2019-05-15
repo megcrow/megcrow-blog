@@ -28,6 +28,7 @@ social:
   img_path: null
 
 ---
+
 <p><em>Use the file editor Houndstooth to format content with HTML.</em></p>
 <hr />
 <p>i used incorrect html tags here, <code>&lt;this is not a real html tag&gt;&lt;/this is not a real html tag&gt;</code>, so the text shows up as unformatted and the closing tag shows, but not the opening tag, for some reason. &lt;/this is not a real html tag&gt;</p>
@@ -74,3 +75,4 @@ social:
 <h3>This was added using the Houndstooth file editor</h3>
 <p>test</p>
 <hr />
+
